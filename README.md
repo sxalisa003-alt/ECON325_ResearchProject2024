@@ -87,7 +87,7 @@ Where:
   *	melkstrandvals: Dummy variable for listings located in Melkbosstrand, Strand, and False Bay.
   *	waterfront: Dummy variable for listings located at the Waterfront.
 
-### PRIORI EXPECTATIONS 
+## PRIORI EXPECTATIONS 
 
 <ins>Host Characteristics<ins>
 
@@ -123,7 +123,7 @@ Melkstrandvals relationship with price is expected to be slightly positive becau
 Waterfront relationship with price is expected to be positive because it is the most popular tourist area. Due to its central location and its proximity to malls and entertainment properties situated in or near will charge high prices.
 
 
-### Regression Model Analysis
+## Regression Model Analysis
 EViews Results and Analysis
 
 <ins>Estimated Regression Equation</ins>
@@ -248,7 +248,7 @@ Price=1306.89+805.55dumhome+699.90dumfemale+102.31dummale-0.46hostlist-1.77avail
 
  * Waterfront×Avail365(β16=1.96): If the listing is in Waterfront the higher it’s availability throughout the year the price of the listing increases by R1.96, ceteris paribus.
 
-### <ins>P-Value</ins>
+## <ins>P-Value</ins>
 <ins> Statistically Insignificant Variables</ins> : Waterfront, Numreviews, Minnights, Melkstrandvals, Hostlist, dummale, dumhome×minnights, dummale×hostlist, Revpm, waterfront×avail365
 
 The p-value is higher than the acceptable 5% therefore the dumfemale variable is statistically insignificant. Do not reject the H0, there is insufficient evidence that these variables have impact on the prices.
@@ -261,7 +261,7 @@ R-squared (0.1037) indicates that approximately 10.37% of the variation in Airbn
 F-Statistic (0.00%) therefore reject H0, and the model is statistically significantly.
 Overall, the model is statistically significant but explain little of the variation in price and only a few independent variables are statistically significant.
 
-### <ins>Conclusion</ins> 
+## <ins>Conclusion</ins> 
 
 Models used to investigate the determinants of Airbnb price are both statistically significant, yet the r-squared values of both models suggest that the models are ill-fitting or that they can only account for a small portion of the variation in price. The failure to explain the variation in price could be due to the omission of important variables that may have an impact on prices or the presence of nonlinearity between variables or a weak relationship between price and independent variables. The inclusion of interactive terms has not improved the results as expected, because the model itself poorly explains the variation in price.
 
@@ -275,7 +275,7 @@ Models used to investigate the determinants of Airbnb price are both statistical
 In conclusion, the model is incomplete or underfitting and for future studies the model should be refined by adding more relevant and nuanced variables, use alternative modelling techniques that support the exploration of non-linear relationships to better capture and explain the complexity of the pricing strategy in Airbnb listings.
 
 
-### <ins>Reference List</ins> 
+## <ins>Reference List</ins> 
 Montero, JM., Fernández-Avilés, G. 2023. Hedonic Price Model. In: Maggino, F. (eds) Encyclopaedia of Quality of Life and Well-Being Research. https://doi.org/10.1007/978-3-031-17299-1_1279  date of access: 27 Sep.2024
 
 Ert, E., Fleischer, A., & Magen, N.2016. Trust and reputation in the sharing economy: The role of personal photos in Airbnb. Tourism Management, 55: 62-73.
