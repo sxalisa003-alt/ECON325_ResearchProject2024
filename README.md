@@ -126,6 +126,7 @@ Waterfront relationship with price is expected to be positive because it is the 
 ## Regression Model Analysis
 EViews Results and Analysis
 
+![Regression1](https://github.com/sxalisa003-alt/ECON325_ResearchProject2024/blob/f441f1b8e4d2f2394b7252ae590e7b0348599618/images/Picture1.png)
 
 <ins>Estimated Regression Equation</ins>
 
