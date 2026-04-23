@@ -126,6 +126,7 @@ Waterfront relationship with price is expected to be positive because it is the 
 ## Regression Model Analysis
 EViews Results and Analysis
 
+
 <ins>Estimated Regression Equation</ins>
 
 Price=β0+β1dumhome+β2dumfemale+β3dummale-β4hostlist+β5avail365+β6minnights+β7numreviews-β8revpm+β9chappoint+β10clifhout+β11melkstrandvals+β12waterfront+e
