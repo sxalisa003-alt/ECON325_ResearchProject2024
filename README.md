@@ -209,7 +209,7 @@ Where:
 **waterfront×avail365:**  measures the relationship of a listing’s availability throughout the year and price if the listing is in Waterfront.
 
 
-
+![InteractiveRegression](https://github.com/sxalisa003-alt/ECON325_ResearchProject2024/blob/3794b1350f0ce1508304b7fdbe662d42d3890b11/images/Picture2.png)
 
 ### <ins>Estimated Regression Equation</ins>
 Price=1306.89+805.55dumhome+699.90dumfemale+102.31dummale-0.46hostlist-1.77avail365-140.58minnights+10.88numreviews-237.06revpm+579.36chappoint+1025.15clifhout+73.59melkstrandvals-374.62waterfront-352.36(dumfemale×revpm) -9.08(dummale×hostlist) +161.42(dumhome×minnights) +1.96(waterfront×avail365) +e
